@@ -1,16 +1,21 @@
-# third_class
+# Flutter Third Class
 
-A new Flutter project.
+## TOPIC
 
-## Getting Started
+### 1). Text Field
+### 2). Elevated Button
+### 3). Icon
+### 4). ScrollChildView
+### 5). Text Style
+### 6). Circle Avatar
+### 7). Image
+### 8). ListTile
+### 9). Stack
+### 10). Media Query
+### 11). BoxRadius
+### 12). Gradient
+### 13). Align
+### 14). Padding & Margin
+### 15). Background Image
+### 16). Navigatior
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
