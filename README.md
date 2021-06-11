@@ -17,5 +17,5 @@
 ### 13). Align
 ### 14). Padding & Margin
 ### 15). Background Image
-### 16). Navigatior
+### 16). Navigator
 
